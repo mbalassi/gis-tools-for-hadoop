@@ -37,7 +37,7 @@ hdfs dfs -put california-counties.csv gis/california-counties
 hdfs dfs -put earthquakes.csv gis/earthquakes
 ```
 
-## Step 3: Build ogr2ogr to conver Shapefiles to GeoJSON
+## Step 3: Build ogr2ogr to convert Shapefiles to GeoJSON
 
 Building ogr2ogr to convert Shape files to GEOJson:
 
